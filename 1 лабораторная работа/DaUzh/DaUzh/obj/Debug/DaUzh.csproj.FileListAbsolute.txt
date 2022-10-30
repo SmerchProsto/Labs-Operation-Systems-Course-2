@@ -1,0 +1,30 @@
+C:\Users\Дмитрий\source\repos\DaUzh\DaUzh\bin\Debug\DaUzh.exe.config
+C:\Users\Дмитрий\source\repos\DaUzh\DaUzh\bin\Debug\DaUzh.exe
+C:\Users\Дмитрий\source\repos\DaUzh\DaUzh\bin\Debug\DaUzh.pdb
+C:\Users\Дмитрий\source\repos\DaUzh\DaUzh\obj\Debug\DaUzh.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\DaUzh\DaUzh\obj\Debug\DaUzh.Form1.resources
+C:\Users\Дмитрий\source\repos\DaUzh\DaUzh\obj\Debug\DaUzh.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\DaUzh\DaUzh\obj\Debug\DaUzh.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\DaUzh\DaUzh\obj\Debug\DaUzh.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\DaUzh\DaUzh\obj\Debug\DaUzh.exe
+C:\Users\Дмитрий\source\repos\DaUzh\DaUzh\obj\Debug\DaUzh.pdb
+C:\Users\dmitr\Desktop\YesOfKus\DaUzh\DaUzh\obj\Debug\DaUzh.Form1.resources
+C:\Users\dmitr\Desktop\YesOfKus\DaUzh\DaUzh\obj\Debug\DaUzh.Properties.Resources.resources
+C:\Users\dmitr\Desktop\YesOfKus\DaUzh\DaUzh\obj\Debug\DaUzh.csproj.GenerateResource.cache
+C:\Users\dmitr\Desktop\YesOfKus\DaUzh\DaUzh\obj\Debug\DaUzh.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\YesOfKus\DaUzh\DaUzh\obj\Debug\DaUzh.exe
+C:\Users\dmitr\Desktop\YesOfKus\DaUzh\DaUzh\obj\Debug\DaUzh.pdb
+C:\Users\dmitr\Desktop\YesOfKus\DaUzh\DaUzh\bin\Debug\DaUzh.exe.config
+C:\Users\dmitr\Desktop\YesOfKus\DaUzh\DaUzh\bin\Debug\DaUzh.exe
+C:\Users\dmitr\Desktop\YesOfKus\DaUzh\DaUzh\bin\Debug\DaUzh.pdb
+C:\Users\dmitr\Desktop\YesOfKus\DaUzh\DaUzh\obj\Debug\DaUzh.csproj.AssemblyReference.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\1 лабораторная работа\DaUzh\DaUzh\bin\Debug\DaUzh.exe.config
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\1 лабораторная работа\DaUzh\DaUzh\bin\Debug\DaUzh.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\1 лабораторная работа\DaUzh\DaUzh\bin\Debug\DaUzh.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\1 лабораторная работа\DaUzh\DaUzh\obj\Debug\DaUzh.csprojAssemblyReference.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\1 лабораторная работа\DaUzh\DaUzh\obj\Debug\DaUzh.Form1.resources
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\1 лабораторная работа\DaUzh\DaUzh\obj\Debug\DaUzh.Properties.Resources.resources
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\1 лабораторная работа\DaUzh\DaUzh\obj\Debug\DaUzh.csproj.GenerateResource.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\1 лабораторная работа\DaUzh\DaUzh\obj\Debug\DaUzh.csproj.CoreCompileInputs.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\1 лабораторная работа\DaUzh\DaUzh\obj\Debug\DaUzh.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\1 лабораторная работа\DaUzh\DaUzh\obj\Debug\DaUzh.pdb

@@ -1,0 +1,35 @@
+C:\Users\Nikita\source\repos\MyWriter\MyWriter\bin\Debug\MyWriter.exe.config
+C:\Users\Nikita\source\repos\MyWriter\MyWriter\bin\Debug\MyWriter.exe
+C:\Users\Nikita\source\repos\MyWriter\MyWriter\bin\Debug\MyWriter.pdb
+C:\Users\Nikita\source\repos\MyWriter\MyWriter\obj\Debug\MyWriter.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\MyWriter\MyWriter\obj\Debug\MyWriter.exe
+C:\Users\Nikita\source\repos\MyWriter\MyWriter\obj\Debug\MyWriter.pdb
+C:\Users\Nikita\source\repos\MyWriter\MyWriter\obj\Debug\MyWriter.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\ОС лб 4\MyWriter\MyWriter\bin\Debug\MyWriter.exe.config
+C:\Users\Nikita\Desktop\ОС лб 4\MyWriter\MyWriter\bin\Debug\MyWriter.exe
+C:\Users\Nikita\Desktop\ОС лб 4\MyWriter\MyWriter\bin\Debug\MyWriter.pdb
+C:\Users\Nikita\Desktop\ОС лб 4\MyWriter\MyWriter\obj\Debug\MyWriter.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\ОС лб 4\MyWriter\MyWriter\obj\Debug\MyWriter.exe
+C:\Users\Nikita\Desktop\ОС лб 4\MyWriter\MyWriter\obj\Debug\MyWriter.pdb
+C:\Users\Nikita\Desktop\ОС лб 4\MyWriter\MyWriter\obj\Debug\MyWriter.csprojAssemblyReference.cache
+C:\Users\dmitr\Desktop\ОС лб 4 программы\MyWriter\MyWriter\bin\Debug\MyWriter.exe.config
+C:\Users\dmitr\Desktop\ОС лб 4 программы\MyWriter\MyWriter\bin\Debug\MyWriter.exe
+C:\Users\dmitr\Desktop\ОС лб 4 программы\MyWriter\MyWriter\bin\Debug\MyWriter.pdb
+C:\Users\dmitr\Desktop\ОС лб 4 программы\MyWriter\MyWriter\obj\Debug\MyWriter.csprojAssemblyReference.cache
+C:\Users\dmitr\Desktop\ОС лб 4 программы\MyWriter\MyWriter\obj\Debug\MyWriter.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\ОС лб 4 программы\MyWriter\MyWriter\obj\Debug\MyWriter.exe
+C:\Users\dmitr\Desktop\ОС лб 4 программы\MyWriter\MyWriter\obj\Debug\MyWriter.pdb
+C:\Users\dmitr\Desktop\OSA4\MyWriter\MyWriter\bin\Debug\MyWriter.exe.config
+C:\Users\dmitr\Desktop\OSA4\MyWriter\MyWriter\bin\Debug\MyWriter.exe
+C:\Users\dmitr\Desktop\OSA4\MyWriter\MyWriter\bin\Debug\MyWriter.pdb
+C:\Users\dmitr\Desktop\OSA4\MyWriter\MyWriter\obj\Debug\MyWriter.csprojAssemblyReference.cache
+C:\Users\dmitr\Desktop\OSA4\MyWriter\MyWriter\obj\Debug\MyWriter.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\OSA4\MyWriter\MyWriter\obj\Debug\MyWriter.exe
+C:\Users\dmitr\Desktop\OSA4\MyWriter\MyWriter\obj\Debug\MyWriter.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyWriter\MyWriter\bin\Debug\MyWriter.exe.config
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyWriter\MyWriter\bin\Debug\MyWriter.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyWriter\MyWriter\bin\Debug\MyWriter.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyWriter\MyWriter\obj\Debug\MyWriter.csproj.AssemblyReference.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyWriter\MyWriter\obj\Debug\MyWriter.csproj.CoreCompileInputs.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyWriter\MyWriter\obj\Debug\MyWriter.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyWriter\MyWriter\obj\Debug\MyWriter.pdb

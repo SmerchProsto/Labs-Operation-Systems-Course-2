@@ -1,0 +1,20 @@
+C:\Users\dmitr\source\repos\Osa2\Osa2\bin\Debug\Osa2.exe.config
+C:\Users\dmitr\source\repos\Osa2\Osa2\bin\Debug\Osa2.exe
+C:\Users\dmitr\source\repos\Osa2\Osa2\bin\Debug\Osa2.pdb
+C:\Users\dmitr\source\repos\Osa2\Osa2\obj\Debug\Osa2.csprojAssemblyReference.cache
+C:\Users\dmitr\source\repos\Osa2\Osa2\obj\Debug\Osa2.Form1.resources
+C:\Users\dmitr\source\repos\Osa2\Osa2\obj\Debug\Osa2.Properties.Resources.resources
+C:\Users\dmitr\source\repos\Osa2\Osa2\obj\Debug\Osa2.csproj.GenerateResource.cache
+C:\Users\dmitr\source\repos\Osa2\Osa2\obj\Debug\Osa2.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\Osa2\Osa2\obj\Debug\Osa2.exe
+C:\Users\dmitr\source\repos\Osa2\Osa2\obj\Debug\Osa2.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\2 лабораторная работа\Osa2\Osa2\bin\Debug\Osa2.exe.config
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\2 лабораторная работа\Osa2\Osa2\bin\Debug\Osa2.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\2 лабораторная работа\Osa2\Osa2\bin\Debug\Osa2.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\2 лабораторная работа\Osa2\Osa2\obj\Debug\Osa2.csprojAssemblyReference.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\2 лабораторная работа\Osa2\Osa2\obj\Debug\Osa2.Form1.resources
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\2 лабораторная работа\Osa2\Osa2\obj\Debug\Osa2.Properties.Resources.resources
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\2 лабораторная работа\Osa2\Osa2\obj\Debug\Osa2.csproj.GenerateResource.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\2 лабораторная работа\Osa2\Osa2\obj\Debug\Osa2.csproj.CoreCompileInputs.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\2 лабораторная работа\Osa2\Osa2\obj\Debug\Osa2.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\2 лабораторная работа\Osa2\Osa2\obj\Debug\Osa2.pdb

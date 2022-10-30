@@ -1,0 +1,67 @@
+C:\Users\Nikita\source\repos\lab_4\lab_4\bin\Debug\lab_4.exe.config
+C:\Users\Nikita\source\repos\lab_4\lab_4\bin\Debug\lab_4.exe
+C:\Users\Nikita\source\repos\lab_4\lab_4\bin\Debug\lab_4.pdb
+C:\Users\Nikita\source\repos\lab_4\lab_4\obj\Debug\lab_4.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\lab_4\lab_4\obj\Debug\lab_4.Form1.resources
+C:\Users\Nikita\source\repos\lab_4\lab_4\obj\Debug\lab_4.Properties.Resources.resources
+C:\Users\Nikita\source\repos\lab_4\lab_4\obj\Debug\lab_4.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\lab_4\lab_4\obj\Debug\lab_4.exe
+C:\Users\Nikita\source\repos\lab_4\lab_4\obj\Debug\lab_4.pdb
+C:\Users\Nikita\source\repos\lab_4\lab_4\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Nikita\source\repos\lab_4\lab_4\bin\Debug\Windows.winmd
+C:\Users\Nikita\source\repos\lab_4\lab_4\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\Nikita\source\repos\lab_4\lab_4\obj\Debug\lab_4.csproj.CopyComplete
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\bin\Debug\lab_4.exe.config
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\bin\Debug\lab_4.exe
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\bin\Debug\lab_4.pdb
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\bin\Debug\Windows.winmd
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\obj\Debug\lab_4.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\obj\Debug\lab_4.Form1.resources
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\obj\Debug\lab_4.Properties.Resources.resources
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\obj\Debug\lab_4.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\obj\Debug\lab_4.csproj.CopyComplete
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\obj\Debug\lab_4.exe
+C:\Users\Nikita\Desktop\ОС лб 4\lab_4\lab_4\obj\Debug\lab_4.pdb
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\bin\Debug\lab_4.exe.config
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\bin\Debug\lab_4.exe
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\bin\Debug\lab_4.pdb
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\bin\Debug\Windows.winmd
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\obj\Debug\lab_4.csprojAssemblyReference.cache
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\obj\Debug\lab_4.Form1.resources
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\obj\Debug\lab_4.Properties.Resources.resources
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\obj\Debug\lab_4.csproj.GenerateResource.cache
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\obj\Debug\lab_4.csproj.CopyComplete
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\obj\Debug\lab_4.exe
+C:\Users\dmitr\Desktop\ОС лб 4 программы\lab_4\lab_4\obj\Debug\lab_4.pdb
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\bin\Debug\lab_4.exe.config
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\bin\Debug\lab_4.exe
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\bin\Debug\lab_4.pdb
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\bin\Debug\Windows.winmd
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\obj\Debug\lab_4.csprojAssemblyReference.cache
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\obj\Debug\lab_4.Form1.resources
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\obj\Debug\lab_4.Properties.Resources.resources
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\obj\Debug\lab_4.csproj.GenerateResource.cache
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\obj\Debug\lab_4.csproj.CopyComplete
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\obj\Debug\lab_4.exe
+C:\Users\dmitr\Desktop\OSA4\lab_4\lab_4\obj\Debug\lab_4.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\bin\Debug\lab_4.exe.config
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\bin\Debug\lab_4.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\bin\Debug\lab_4.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\obj\Debug\lab_4.csproj.AssemblyReference.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\obj\Debug\lab_4.Form1.resources
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\obj\Debug\lab_4.Properties.Resources.resources
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\obj\Debug\lab_4.csproj.GenerateResource.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\obj\Debug\lab_4.csproj.CopyComplete
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\obj\Debug\lab_4.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\lab_4\lab_4\obj\Debug\lab_4.pdb

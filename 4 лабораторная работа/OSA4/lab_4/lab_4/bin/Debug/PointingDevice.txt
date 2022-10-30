@@ -1,0 +1,21 @@
+13.05.2022 5:06:30
+Caption: HID-??????????? ????
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_PointingDevice
+Description: HID-??????????? ????
+DeviceID: HID\VID_25A7&PID_FA23&MI_01&COL01\8&7F0B03&0&0000
+DeviceInterface: 162
+HardwareType: HID-??????????? ????
+InfFileName: msmouse.inf
+InfSection: HID_Mouse_Inst.NT
+Manufacturer: Microsoft
+Name: HID-??????????? ????
+NumberOfButtons: 0
+PNPDeviceID: HID\VID_25A7&PID_FA23&MI_01&COL01\8&7F0B03&0&0000
+PointingType: 2
+PowerManagementSupported: False
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-FNFIA37
+

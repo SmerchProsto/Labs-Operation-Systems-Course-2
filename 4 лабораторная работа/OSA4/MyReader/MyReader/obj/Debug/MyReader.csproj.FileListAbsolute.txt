@@ -1,0 +1,28 @@
+C:\Users\Nikita\source\repos\MyReader\MyReader\bin\Debug\MyReader.exe.config
+C:\Users\Nikita\source\repos\MyReader\MyReader\bin\Debug\MyReader.exe
+C:\Users\Nikita\source\repos\MyReader\MyReader\bin\Debug\MyReader.pdb
+C:\Users\Nikita\source\repos\MyReader\MyReader\obj\Debug\MyReader.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\MyReader\MyReader\obj\Debug\MyReader.exe
+C:\Users\Nikita\source\repos\MyReader\MyReader\obj\Debug\MyReader.pdb
+C:\Users\Nikita\source\repos\MyReader\MyReader\obj\Debug\MyReader.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\ОС лб 4\MyReader\MyReader\obj\Debug\MyReader.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\ОС лб 4\MyReader\MyReader\obj\Debug\MyReader.exe
+C:\Users\Nikita\Desktop\ОС лб 4\MyReader\MyReader\obj\Debug\MyReader.pdb
+C:\Users\Nikita\Desktop\ОС лб 4\MyReader\MyReader\bin\Debug\MyReader.exe.config
+C:\Users\Nikita\Desktop\ОС лб 4\MyReader\MyReader\bin\Debug\MyReader.exe
+C:\Users\Nikita\Desktop\ОС лб 4\MyReader\MyReader\bin\Debug\MyReader.pdb
+C:\Users\Nikita\Desktop\ОС лб 4\MyReader\MyReader\obj\Debug\MyReader.csprojAssemblyReference.cache
+C:\Users\dmitr\Desktop\OSA4\MyReader\MyReader\bin\Debug\MyReader.exe.config
+C:\Users\dmitr\Desktop\OSA4\MyReader\MyReader\bin\Debug\MyReader.exe
+C:\Users\dmitr\Desktop\OSA4\MyReader\MyReader\bin\Debug\MyReader.pdb
+C:\Users\dmitr\Desktop\OSA4\MyReader\MyReader\obj\Debug\MyReader.csprojAssemblyReference.cache
+C:\Users\dmitr\Desktop\OSA4\MyReader\MyReader\obj\Debug\MyReader.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\OSA4\MyReader\MyReader\obj\Debug\MyReader.exe
+C:\Users\dmitr\Desktop\OSA4\MyReader\MyReader\obj\Debug\MyReader.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyReader\MyReader\bin\Debug\MyReader.exe.config
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyReader\MyReader\bin\Debug\MyReader.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyReader\MyReader\bin\Debug\MyReader.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyReader\MyReader\obj\Debug\MyReader.csproj.AssemblyReference.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyReader\MyReader\obj\Debug\MyReader.csproj.CoreCompileInputs.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyReader\MyReader\obj\Debug\MyReader.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\4 лабораторная работа\OSA4\MyReader\MyReader\obj\Debug\MyReader.pdb

@@ -1,0 +1,30 @@
+C:\Users\dmitr\source\repos\Osa3\Osa3\bin\Debug\Osa3.exe.config
+C:\Users\dmitr\source\repos\Osa3\Osa3\bin\Debug\Osa3.exe
+C:\Users\dmitr\source\repos\Osa3\Osa3\bin\Debug\Osa3.pdb
+C:\Users\dmitr\source\repos\Osa3\Osa3\obj\Debug\Osa3.Form1.resources
+C:\Users\dmitr\source\repos\Osa3\Osa3\obj\Debug\Osa3.Properties.Resources.resources
+C:\Users\dmitr\source\repos\Osa3\Osa3\obj\Debug\Osa3.csproj.GenerateResource.cache
+C:\Users\dmitr\source\repos\Osa3\Osa3\obj\Debug\Osa3.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\Osa3\Osa3\obj\Debug\Osa3.exe
+C:\Users\dmitr\source\repos\Osa3\Osa3\obj\Debug\Osa3.pdb
+C:\Users\dmitr\source\repos\Osa3\Osa3\obj\Debug\Osa3.csproj.AssemblyReference.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\Osa3\Osa3\bin\Debug\Osa3.exe.config
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\Osa3\Osa3\bin\Debug\Osa3.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\Osa3\Osa3\bin\Debug\Osa3.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\Osa3\Osa3\obj\Debug\Osa3.csprojAssemblyReference.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\Osa3\Osa3\obj\Debug\Osa3.Form1.resources
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\Osa3\Osa3\obj\Debug\Osa3.Properties.Resources.resources
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\Osa3\Osa3\obj\Debug\Osa3.csproj.GenerateResource.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\Osa3\Osa3\obj\Debug\Osa3.csproj.CoreCompileInputs.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\Osa3\Osa3\obj\Debug\Osa3.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\Osa3\Osa3\obj\Debug\Osa3.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\учеба\лабы ос\Osa3\Osa3\bin\Debug\Osa3.exe.config
+C:\Users\smerc\OneDrive\Рабочий стол\учеба\лабы ос\Osa3\Osa3\bin\Debug\Osa3.exe
+C:\Users\smerc\OneDrive\Рабочий стол\учеба\лабы ос\Osa3\Osa3\bin\Debug\Osa3.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\учеба\лабы ос\Osa3\Osa3\obj\Debug\Osa3.csproj.AssemblyReference.cache
+C:\Users\smerc\OneDrive\Рабочий стол\учеба\лабы ос\Osa3\Osa3\obj\Debug\Osa3.Form1.resources
+C:\Users\smerc\OneDrive\Рабочий стол\учеба\лабы ос\Osa3\Osa3\obj\Debug\Osa3.Properties.Resources.resources
+C:\Users\smerc\OneDrive\Рабочий стол\учеба\лабы ос\Osa3\Osa3\obj\Debug\Osa3.csproj.GenerateResource.cache
+C:\Users\smerc\OneDrive\Рабочий стол\учеба\лабы ос\Osa3\Osa3\obj\Debug\Osa3.csproj.CoreCompileInputs.cache
+C:\Users\smerc\OneDrive\Рабочий стол\учеба\лабы ос\Osa3\Osa3\obj\Debug\Osa3.exe
+C:\Users\smerc\OneDrive\Рабочий стол\учеба\лабы ос\Osa3\Osa3\obj\Debug\Osa3.pdb

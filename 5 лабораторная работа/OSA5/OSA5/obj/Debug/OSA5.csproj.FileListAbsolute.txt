@@ -1,0 +1,20 @@
+C:\Users\dmitr\source\repos\OSA5\OSA5\bin\Debug\OSA5.exe.config
+C:\Users\dmitr\source\repos\OSA5\OSA5\bin\Debug\OSA5.exe
+C:\Users\dmitr\source\repos\OSA5\OSA5\bin\Debug\OSA5.pdb
+C:\Users\dmitr\source\repos\OSA5\OSA5\obj\Debug\OSA5.csprojAssemblyReference.cache
+C:\Users\dmitr\source\repos\OSA5\OSA5\obj\Debug\OSA5.Form1.resources
+C:\Users\dmitr\source\repos\OSA5\OSA5\obj\Debug\OSA5.Properties.Resources.resources
+C:\Users\dmitr\source\repos\OSA5\OSA5\obj\Debug\OSA5.csproj.GenerateResource.cache
+C:\Users\dmitr\source\repos\OSA5\OSA5\obj\Debug\OSA5.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\OSA5\OSA5\obj\Debug\OSA5.exe
+C:\Users\dmitr\source\repos\OSA5\OSA5\obj\Debug\OSA5.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\5 лабораторная работа\OSA5\OSA5\bin\Debug\OSA5.exe.config
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\5 лабораторная работа\OSA5\OSA5\bin\Debug\OSA5.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\5 лабораторная работа\OSA5\OSA5\bin\Debug\OSA5.pdb
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\5 лабораторная работа\OSA5\OSA5\obj\Debug\OSA5.csproj.AssemblyReference.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\5 лабораторная работа\OSA5\OSA5\obj\Debug\OSA5.Form1.resources
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\5 лабораторная работа\OSA5\OSA5\obj\Debug\OSA5.Properties.Resources.resources
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\5 лабораторная работа\OSA5\OSA5\obj\Debug\OSA5.csproj.GenerateResource.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\5 лабораторная работа\OSA5\OSA5\obj\Debug\OSA5.csproj.CoreCompileInputs.cache
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\5 лабораторная работа\OSA5\OSA5\obj\Debug\OSA5.exe
+C:\Users\smerc\OneDrive\Рабочий стол\лабы ос\5 лабораторная работа\OSA5\OSA5\obj\Debug\OSA5.pdb
